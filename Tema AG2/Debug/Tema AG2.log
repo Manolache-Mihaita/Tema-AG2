@@ -1,0 +1,9 @@
+﻿  Tema AG2.cpp
+c:\users\manol\source\repos\tema ag2\tema ag2\tema ag2.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema ag2\tema ag2\tema ag2.cpp(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\tema ag2\tema ag2\tema ag2.cpp(254): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema ag2\tema ag2\tema ag2.cpp(437): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema ag2\tema ag2\tema ag2.cpp(584): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema ag2\tema ag2\tema ag2.cpp(606): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\manol\source\repos\tema ag2\tema ag2\tema ag2.cpp(629): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tema AG2.vcxproj -> C:\Users\manol\source\repos\Tema AG2\Debug\Tema AG2.exe
